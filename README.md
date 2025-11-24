@@ -1,6 +1,6 @@
 # Uzbek Speech-to-Text Dataset
 
-A small-scale Uzbek language speech-to-text dataset containing 75 audio clips with manual transcriptions.
+A small-scale Uzbek language speech-to-text dataset containing 74 audio clips with manual transcriptions.
 
 ## Dataset Overview
 
@@ -23,11 +23,11 @@ data/
 ├── train/
 │   ├── clip_002.wav
 │   ├── clip_003.wav
-│   └── ... (60 files)
+│   └── ... (59 files)
 ├── val/
 │   ├── clip_005.wav
 │   ├── clip_006.wav
-│   └── ... (15 files)
+│   └── ... (14 files)
 ├── train_metadata.csv
 └── val_metadata.csv
 ```
